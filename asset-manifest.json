@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3937885b.css",
+    "main.js": "/Portfolio/static/js/main.aa62f840.js",
+    "static/media/heroImage.jpg": "/Portfolio/static/media/heroImage.6b79e7c4336df3f07733.jpg",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.7bfb777fe6f67a178226.png",
+    "static/media/personalPortfolio.png": "/Portfolio/static/media/personalPortfolio.93a2f00c373adf1f8ddb.png",
+    "static/media/foodrecipe.png": "/Portfolio/static/media/foodrecipe.086d7153c01ad9a19631.png",
+    "static/media/resturantMenu.png": "/Portfolio/static/media/resturantMenu.b05f5dfa4d5c2f7f2f0e.png",
+    "static/media/quoteGenerator.png": "/Portfolio/static/media/quoteGenerator.5547ee6460b1cec5f922.png",
+    "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/ClickMonkey.png": "/Portfolio/static/media/ClickMonkey.80b15773b907d7269cf9.png",
+    "static/media/tailwind.png": "/Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portfolio/index.html",
+    "main.3937885b.css.map": "/Portfolio/static/css/main.3937885b.css.map",
+    "main.aa62f840.js.map": "/Portfolio/static/js/main.aa62f840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3937885b.css",
+    "static/js/main.aa62f840.js"
+  ]
+}
